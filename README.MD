@@ -26,7 +26,7 @@ Codename:	bionic
 ```
 
 ### 依赖库
-本项目依赖于readline
+本项目依赖于readline, Ubuntu安装依赖
 > 安装方法
 
 ```
