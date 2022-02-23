@@ -4,7 +4,7 @@
 ## 目录及文件说明
 ```
 
-├── bin  二进制文件
+├── bin  编译生成的二进制文件
 ├── gethost.c  源码
 ├── Makefile  makefile
 └── README.MD  说明文件
